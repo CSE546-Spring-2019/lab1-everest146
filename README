@@ -1,0 +1,13 @@
+README
+Christopher Luikart
+CSE 5462
+Lab 1
+Word Count Program
+
+The program takes in a input file, a word, and the name of an output file. It then
+finds the number of instances of the word in the input file, and the size of
+the input file in bytes and prints both to the terminal and an output file.
+
+Compile using the make command from the makefile or the following command:
+
+gcc count.c -o count
